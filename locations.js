@@ -1,4 +1,4 @@
-let location=[
+let points=[
     {
       "Brand": [
         "FALL LINE"
