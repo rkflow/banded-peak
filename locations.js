@@ -1,3 +1,5 @@
+
+console.log('Location Pointer loaded')
 let points=[
     {
       "Brand": [
